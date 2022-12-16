@@ -1,4 +1,3 @@
 # Music Interface Deployed
 
-DEMO: https://aandresweb.github.io/fractalup-reto-tecnico/
-
+DEMO: https://aandresweb.github.io/music-interface-vue-deployed/
